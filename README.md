@@ -4,74 +4,78 @@ A fan-made League of Legends skin mod by **KamAI Industries**: Udyr reimagined a
 
 **Download:** on RuneForge (search for **Toadyr**).
 
-All screenshots below are taken in game, in the Practice Tool.
+![Toadyr in all five stances](media/images/stances.jpg)
 
-## Loading screen
-
-The loading-screen card, so you can tell the mod is active before the game starts.
-
-![Loading screen](screenshots/01-loading-screen.png)
+The images and clips below are rendered straight from the mod's own model, textures and animations. Click any turntable for the full 1080p video.
 
 ## Neutral
 
-Before he picks a stance: an earthy brown-spotted cap and fur mantle.
+Before he picks a stance: an earthy brown-spotted cap, a shaggy fur mantle and a spiral amulet.
 
-![Neutral](screenshots/02-neutral.png)
+[![Neutral turntable](media/gifs/neutral.gif)](media/turntables/neutral.mp4)
 
 ## Tiger (Q)
 
-A shaggy blue-and-white tiger-striped fur mantle, claws and blue tiger tattoos.
+A shaggy blue-and-white tiger-striped fur mantle, a fur skirt, claws and blue tiger tattoos. Awakened, a lunging electric-blue tiger spirit appears above him.
 
-![Tiger stance, idle](screenshots/03-tiger-q-idle.png)
-
-*Tiger stance activated.*
-
-![Tiger stance, activated](screenshots/04-tiger-q-activated.png)
-
-*Awakened Tiger: a lunging electric-blue tiger spirit appears above his head.*
-
-![Awakened Tiger](screenshots/05-tiger-q-awakened.png)
+| Tiger stance | Awakened Tiger |
+|:---:|:---:|
+| [![Tiger turntable](media/gifs/tiger.gif)](media/turntables/tiger.mp4) | [![Awakened Tiger turntable](media/gifs/tiger-awakened.gif)](media/turntables/tiger-awakened.mp4) |
 
 ## Turtle (W)
 
-Green Koopa-style shell armour: a round back shell and two shoulder shells.
+Green Koopa-style shell armour: a round back shell and two shoulder shells carrying the turtle amulet's hex pattern. Awakened, the glowing turtle spirit appears above him.
 
-![Turtle stance, idle](screenshots/06-turtle-w-idle.png)
-
-*Turtle stance activated.*
-
-![Turtle stance, activated](screenshots/07-turtle-w-activated.png)
-
-*Awakened Turtle: the glowing turtle spirit.*
-
-![Awakened Turtle](screenshots/08-turtle-w-awakened.png)
+| Turtle stance | Awakened Turtle |
+|:---:|:---:|
+| [![Turtle turntable](media/gifs/turtle.gif)](media/turntables/turtle.mp4) | [![Awakened Turtle turntable](media/gifs/turtle-awakened.gif)](media/turntables/turtle-awakened.mp4) |
 
 ## Eagle (E)
 
-A flowing white feather mantle and a winged cap.
+A flowing white feather mantle and a winged cap. Awakened, the white spectral eagle spirit appears above him.
 
-![Eagle stance, idle](screenshots/09-eagle-e-idle.png)
-
-*Awakened Eagle: the white spectral eagle spirit.*
-
-![Awakened Eagle](screenshots/10-eagle-e-awakened.png)
+| Eagle stance | Awakened Eagle |
+|:---:|:---:|
+| [![Eagle turntable](media/gifs/eagle.gif)](media/turntables/eagle.mp4) | [![Awakened Eagle turntable](media/gifs/eagle-awakened.gif)](media/turntables/eagle-awakened.mp4) |
 
 ## Dragon (R)
 
-Dragon-scale pauldrons with gold rivets, a dark ember-tipped fur mantle and red tattoos.
+Dragon-scale pauldrons with gold rivets, a V of scales down the back, a dark ember-tipped fur mantle and red tattoos. Awakened, the flaming dragon spirit appears above him, with a soft fire-dragon emblem glowing under the storm.
 
-![Dragon stance, idle](screenshots/11-dragon-r-idle.png)
+| Dragon stance | Awakened Dragon |
+|:---:|:---:|
+| [![Dragon turntable](media/gifs/dragon.gif)](media/turntables/dragon.mp4) | [![Awakened Dragon turntable](media/gifs/dragon-awakened.gif)](media/turntables/dragon-awakened.mp4) |
 
-*Dragon stance: the storm.*
+## Recall
 
-![Dragon stance, the storm](screenshots/12-dragon-r-activated.png)
+He sets his feet and does the dancing stormtrooper's hip thrust on every beat, grabbing the air between thrusts. The five Toad hats (neutral, tiger, turtle, eagle and dragon) pop up around him one by one, on the beat, to "Voxel Revolution" by Kevin MacLeod.
 
-*Awakened Dragon: the flaming dragon spirit, with a fire-dragon emblem under the storm.*
+[![Recall](media/gifs/recall.gif)](media/videos/recall.mp4)
 
-![Awakened Dragon](screenshots/13-dragon-r-awakened.png)
+*Click for the video with the music.*
+
+## Death
+
+His body goes poof in a puff of smoke. All that's left is his Toad cap, from the stance he died in and 25% bigger. It drifts down to the ground like a feather and stays there until he respawns.
+
+![Death in all five stances](media/gifs/death.gif)
+
+## Ability icons, portrait and loading screen
+
+New Q, W, E and R icons, each showing the Toad with that stance's spirit, plus the passive and the HUD portrait.
+
+![Ability icons](media/images/ability-icons.png)
+
+<img src="media/images/portrait.png" alt="HUD portrait" width="170">
+
+The loading-screen card:
+
+<img src="media/images/loading-screen.jpg" alt="Loading-screen card" width="440">
 
 ## Credits and licence
 
-- Made by **KamAI Industries**. The mod is licensed under CC BY-NC 4.0 (non-commercial, with credit to KamAI Industries).
-- Tiger-head icon by Delapouite and eagle icon by Lorc, from game-icons.net, licensed under CC BY 3.0.
+- Made by **KamAI Industries**. The mod and these images are licensed under CC BY-NC 4.0 (non-commercial, with credit to KamAI Industries). See [LICENSE](LICENSE).
+- Ability icons, passive icon, portrait and loading-screen card: KamAI Industries' own artwork. The fire-dragon emblem was also supplied by KamAI Industries.
+- Recall music: "Voxel Revolution" Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/). 0:24 to 0:32 is used.
+- Tiger-head icon by Delapouite and eagle icon by Lorc, from game-icons.net, licensed under CC BY 3.0 (used for the amulets).
 - Toadyr is a fan-made mod. League of Legends and its assets belong to Riot Games, and Toad belongs to Nintendo. It isn't endorsed by Riot Games or Nintendo.
