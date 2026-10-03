@@ -6,13 +6,13 @@ A fan-made League of Legends skin mod by **KamAI Industries**: Udyr reimagined a
 
 ![Toadyr in all five stances](media/images/stances.jpg)
 
-The images and clips below are rendered straight from the mod's own model, textures and animations. Click any turntable for the full 1080p video.
+The images and clips below are rendered straight from the mod's own model, textures and animations. Click any turntable to download its full 1080p video (MP4).
 
 ## Neutral
 
 Before he picks a stance: an earthy brown-spotted cap, a shaggy fur mantle and a spiral amulet.
 
-[![Neutral turntable](media/gifs/neutral.gif)](media/turntables/neutral.mp4)
+[![Neutral turntable](media/gifs/neutral.gif)](media/turntables/neutral.mp4?raw=true)
 
 ## Tiger (Q)
 
@@ -20,7 +20,7 @@ A shaggy blue-and-white tiger-striped fur mantle, a fur skirt, claws and blue ti
 
 | Tiger stance | Awakened Tiger |
 |:---:|:---:|
-| [![Tiger turntable](media/gifs/tiger.gif)](media/turntables/tiger.mp4) | [![Awakened Tiger turntable](media/gifs/tiger-awakened.gif)](media/turntables/tiger-awakened.mp4) |
+| [![Tiger turntable](media/gifs/tiger.gif)](media/turntables/tiger.mp4?raw=true) | [![Awakened Tiger turntable](media/gifs/tiger-awakened.gif)](media/turntables/tiger-awakened.mp4?raw=true) |
 
 ## Turtle (W)
 
@@ -28,7 +28,7 @@ Green Koopa-style shell armour: a round back shell and two shoulder shells carry
 
 | Turtle stance | Awakened Turtle |
 |:---:|:---:|
-| [![Turtle turntable](media/gifs/turtle.gif)](media/turntables/turtle.mp4) | [![Awakened Turtle turntable](media/gifs/turtle-awakened.gif)](media/turntables/turtle-awakened.mp4) |
+| [![Turtle turntable](media/gifs/turtle.gif)](media/turntables/turtle.mp4?raw=true) | [![Awakened Turtle turntable](media/gifs/turtle-awakened.gif)](media/turntables/turtle-awakened.mp4?raw=true) |
 
 ## Eagle (E)
 
@@ -36,7 +36,7 @@ A flowing white feather mantle and a winged cap. Awakened, the white spectral ea
 
 | Eagle stance | Awakened Eagle |
 |:---:|:---:|
-| [![Eagle turntable](media/gifs/eagle.gif)](media/turntables/eagle.mp4) | [![Awakened Eagle turntable](media/gifs/eagle-awakened.gif)](media/turntables/eagle-awakened.mp4) |
+| [![Eagle turntable](media/gifs/eagle.gif)](media/turntables/eagle.mp4?raw=true) | [![Awakened Eagle turntable](media/gifs/eagle-awakened.gif)](media/turntables/eagle-awakened.mp4?raw=true) |
 
 ## Dragon (R)
 
@@ -44,15 +44,15 @@ Dragon-scale pauldrons with gold rivets, a V of scales down the back, a dark emb
 
 | Dragon stance | Awakened Dragon |
 |:---:|:---:|
-| [![Dragon turntable](media/gifs/dragon.gif)](media/turntables/dragon.mp4) | [![Awakened Dragon turntable](media/gifs/dragon-awakened.gif)](media/turntables/dragon-awakened.mp4) |
+| [![Dragon turntable](media/gifs/dragon.gif)](media/turntables/dragon.mp4?raw=true) | [![Awakened Dragon turntable](media/gifs/dragon-awakened.gif)](media/turntables/dragon-awakened.mp4?raw=true) |
 
 ## Recall
 
 He sets his feet and does the dancing stormtrooper's hip thrust on every beat, grabbing the air between thrusts. The five Toad hats (neutral, tiger, turtle, eagle and dragon) pop up around him one by one, on the beat, to "Voxel Revolution" by Kevin MacLeod.
 
-[![Recall](media/gifs/recall.gif)](media/videos/recall.mp4)
+[![Recall](media/gifs/recall.gif)](media/videos/recall.mp4?raw=true)
 
-*Click for the video with the music.*
+*Click to download the video with the music (MP4).*
 
 ## Death
 
