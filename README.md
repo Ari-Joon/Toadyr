@@ -6,7 +6,9 @@ A fan-made League of Legends skin mod by **KamAI Industries**: Udyr reimagined a
 
 ![Toadyr in all five stances](media/images/stances.jpg)
 
-The images and clips below are rendered straight from the mod's own model, textures and animations. Click any turntable to download its full 1080p video (MP4).
+The images and clips below are rendered straight from the mod's own model, textures, animations and effects. Click any clip to download its full 1080p video (MP4).
+
+The ability clips play the mod's own particle effects (its textures, colours, meshes and timings) through a re-creation of League's effect system. They're very close to what you see in game, but they aren't captures of it. All twelve back to back: [toadyr-abilities.mp4](media/videos/toadyr-abilities.mp4?raw=true).
 
 ## Neutral
 
@@ -16,35 +18,51 @@ Before he picks a stance: an earthy brown-spotted cap, a shaggy fur mantle and a
 
 ## Tiger (Q)
 
-A shaggy blue-and-white tiger-striped fur mantle, a fur skirt, claws and blue tiger tattoos. Awakened, a lunging electric-blue tiger spirit appears above him.
+A shaggy blue-and-white tiger-striped fur mantle, a fur skirt, claws and blue tiger tattoos. Casting Q crackles blue lightning around him and his fists. Awakened, lightning strikes down as the electric-blue tiger spirit appears above him, and a crackling aura stays on him.
 
 | Tiger stance | Awakened Tiger |
 |:---:|:---:|
 | [![Tiger turntable](media/gifs/tiger.gif)](media/turntables/tiger.mp4?raw=true) | [![Awakened Tiger turntable](media/gifs/tiger-awakened.gif)](media/turntables/tiger-awakened.mp4?raw=true) |
 
+| Idle | Q activation | Awakened Q |
+|:---:|:---:|:---:|
+| [![Tiger idle](media/abilities/tiger-idle.gif)](media/abilities/tiger-idle.mp4?raw=true) | [![Tiger Q activation](media/abilities/tiger-activation.gif)](media/abilities/tiger-activation.mp4?raw=true) | [![Awakened Q](media/abilities/tiger-awakened.gif)](media/abilities/tiger-awakened.mp4?raw=true) |
+
 ## Turtle (W)
 
-Green Koopa-style shell armour: a round back shell and two shoulder shells carrying the turtle amulet's hex pattern. Awakened, the glowing turtle spirit appears above him.
+Green Koopa-style shell armour: a round back shell and two shoulder shells carrying the turtle amulet's hex pattern. Casting W raises a green shield bubble around him. Awakened, the glowing turtle spirit appears above him as he heals and the bubble holds.
 
 | Turtle stance | Awakened Turtle |
 |:---:|:---:|
 | [![Turtle turntable](media/gifs/turtle.gif)](media/turntables/turtle.mp4?raw=true) | [![Awakened Turtle turntable](media/gifs/turtle-awakened.gif)](media/turntables/turtle-awakened.mp4?raw=true) |
 
+| Idle | W activation | Awakened W |
+|:---:|:---:|:---:|
+| [![Turtle idle](media/abilities/turtle-idle.gif)](media/abilities/turtle-idle.mp4?raw=true) | [![Turtle W activation](media/abilities/turtle-activation.gif)](media/abilities/turtle-activation.mp4?raw=true) | [![Awakened W](media/abilities/turtle-awakened.gif)](media/abilities/turtle-awakened.mp4?raw=true) |
+
 ## Eagle (E)
 
-A flowing white feather mantle and a winged cap. Awakened, the white spectral eagle spirit appears above him.
+A flowing white feather mantle and a winged cap. Casting E bursts a white wind swirl around him (its speed trails show when he runs). Awakened, a white burst breaks over him as the spectral eagle spirit appears above him.
 
 | Eagle stance | Awakened Eagle |
 |:---:|:---:|
 | [![Eagle turntable](media/gifs/eagle.gif)](media/turntables/eagle.mp4?raw=true) | [![Awakened Eagle turntable](media/gifs/eagle-awakened.gif)](media/turntables/eagle-awakened.mp4?raw=true) |
 
+| Idle | E activation | Awakened E |
+|:---:|:---:|:---:|
+| [![Eagle idle](media/abilities/eagle-idle.gif)](media/abilities/eagle-idle.mp4?raw=true) | [![Eagle E activation](media/abilities/eagle-activation.gif)](media/abilities/eagle-activation.mp4?raw=true) | [![Awakened E](media/abilities/eagle-awakened.gif)](media/abilities/eagle-awakened.mp4?raw=true) |
+
 ## Dragon (R)
 
-Dragon-scale pauldrons with gold rivets, a V of scales down the back, a dark ember-tipped fur mantle and red tattoos. Awakened, the flaming dragon spirit appears above him, with a soft fire-dragon emblem glowing under the storm.
+Dragon-scale pauldrons with gold rivets, a V of scales down the back, a dark ember-tipped fur mantle and red tattoos. Casting R summons a storm of fire swirling in a ring around him. Awakened, the flaming dragon spirit appears above him and the storm blazes brighter, with a soft fire-dragon emblem glowing under it.
 
 | Dragon stance | Awakened Dragon |
 |:---:|:---:|
 | [![Dragon turntable](media/gifs/dragon.gif)](media/turntables/dragon.mp4?raw=true) | [![Awakened Dragon turntable](media/gifs/dragon-awakened.gif)](media/turntables/dragon-awakened.mp4?raw=true) |
+
+| Idle | R activation | Awakened R |
+|:---:|:---:|:---:|
+| [![Dragon idle](media/abilities/dragon-idle.gif)](media/abilities/dragon-idle.mp4?raw=true) | [![Dragon R activation](media/abilities/dragon-activation.gif)](media/abilities/dragon-activation.mp4?raw=true) | [![Awakened R](media/abilities/dragon-awakened.gif)](media/abilities/dragon-awakened.mp4?raw=true) |
 
 ## Recall
 
